@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bowman</string>
+
+    <!-- Main menu -->
+    <string name="new_game_text">play</string>
+    <color name="new_game_color">#f1f1f1</color>
+
+    <string name="difficulty_easy_text">easy</string>
+    <color name="difficulty_easy_color">#2ecc71</color>
+
+    <string name="difficulty_normal_text">normal</string>
+    <color name="difficulty_normal_color">#2980b9</color>
+
+    <string name="difficulty_hard_text">hard</string>
+    <color name="difficulty_hard_color">#e74c3c</color>
+
+    <!-- Game Ended -->
+    <string name="game_won_text">you win :)</string>
+    <color name="game_won_color">#2ecc71</color>
+
+    <string name="game_lost_text">you lose :(</string>
+    <color name="game_lost_color">#e74c3c</color>
+</resources>

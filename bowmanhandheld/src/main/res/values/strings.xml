@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bow Man Wear</string>
+
+    <string name="installing_on_wearable">Bow Man will be installed on your wearable.</string>
+    <string name="action_settings">Settings</string>
+</resources>
