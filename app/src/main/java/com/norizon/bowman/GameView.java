@@ -2,15 +2,15 @@ package com.norizon.bowman;
 
 import android.graphics.Canvas;
 import android.graphics.Paint;
+import android.graphics.Path;
 import android.graphics.Point;
 import android.os.Handler;
+import android.view.Display;
 import android.view.MotionEvent;
 import android.view.View;
-import java.util.List;
-import java.util.ArrayList;
 
-import android.graphics.Path;
-import android.view.Display;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by cbuehler on 23.03.2015.

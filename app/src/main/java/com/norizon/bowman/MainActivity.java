@@ -2,11 +2,11 @@ package com.norizon.bowman;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.os.Handler;
 import android.support.wearable.view.WatchViewStub;
 import android.view.View;
-import android.widget.Button;
 import android.view.View.OnClickListener;
-import android.os.Handler;
+import android.widget.Button;
 
 import com.example.cbuehler.weartest.R;
 

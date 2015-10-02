@@ -1,16 +1,16 @@
 package com.norizon.bowman;
 
-import android.graphics.Color;
-import android.graphics.Matrix;
-import android.graphics.Canvas;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.Matrix;
 import android.graphics.Paint;
 
 import com.example.cbuehler.weartest.R;
 
-import java.util.List;
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by cbuehler on 23.03.2015.

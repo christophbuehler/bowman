@@ -3,8 +3,9 @@ package com.norizon.bowman;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
-import java.util.List;
+
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by Christoph on 03/29/2015.
